@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="views_gap">4dp</dimen>
+    <dimen name="input_height">50dp</dimen>
+    <dimen name="message_text_size">22sp</dimen>
+    <dimen name="intro_text_size">20sp</dimen>
+    <dimen name="numbers_text_size">34sp</dimen>
+    <dimen name="signs_text_size">24sp</dimen>
+    <dimen name="display_text_size">48sp</dimen>
+</resources>
